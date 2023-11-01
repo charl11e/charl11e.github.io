@@ -1,0 +1,97 @@
+.navbar-text {
+    color:white;
+    font-size:25px;
+}
+
+.navbar-text:hover {
+    color:white;
+    font-size:25px;
+}
+
+.navbar-logo {
+    height:25px;
+    width:25px;
+}
+
+.navbar-logo:hover {
+    height:25px;
+    width:25px;
+}
+
+.nav-link {
+    color:white;
+    padding-top:12px;
+}
+
+.nav-link:visited {
+    color:white
+}
+
+.nav-link:hover {
+    color:white
+}
+
+.nav-link:active {
+    color:white;
+}
+
+.important {
+    font-weight:bold;
+    text-decoration-line:underline;
+    padding-left:20px;
+    color:white;
+}
+
+#C1 {
+    padding-top:10px;
+}
+
+#mapbasic {
+    display:block;
+    width:50%;
+    height:auto;
+}
+
+#mapinteractive {
+    display:none;
+    width:75%;
+    height:500px;
+}
+
+#hetsu {
+    display:block;
+    padding-top:10px;
+    width:50%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#logo {
+    display:block;
+    width:15%;
+    margin-left:auto;
+    margin-right:auto;
+    padding-bottom:25px;
+}
+
+body {
+    background-image: url("/images/background.png");
+    background-size:100px;
+    background-repeat:repeat;
+}
+
+h1 {
+    color:white;
+}
+
+p {
+    color:white;
+}
+
+h3 {
+    color:white;
+}
+
+ul {
+    color:white;
+}
